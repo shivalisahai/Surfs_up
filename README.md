@@ -39,8 +39,10 @@ This analysis queries the database - hawaii.sqlite and  finds the temperature an
    - Data filtered for the station with highest precipitation observations for the month of December.
    - December precipitation data plotted on a histogram.
    
+   
    <img width="157" alt="December_Temps" src="https://user-images.githubusercontent.com/104603128/178156643-63c02934-089c-47f9-950d-af75f49bd725.png">
     Figure - 2: Temperature Summary Statistics for December
+    
     
    <img width="377" alt="Precipitation_Histogram" src="https://user-images.githubusercontent.com/104603128/178156727-3b3a753d-9afc-4da3-8a26-3cdf02900327.png">
     Figure - 3: Precipitation Histogram for December (most active station) 
