@@ -2,16 +2,16 @@
 
 ## Overview
 
-This analysis queries the database - hawaii.sqlite and  finds the temperature data for specific months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+This analysis queries the database - hawaii.sqlite and  finds the temperature and precipitation data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Resources
 
-    - hawaii.sqlite 
+   - hawaii.sqlite 
 
 ## Tools used
 
-    - Python 3.7, Pandas, Numpy
-    - SQL alchemy toolkit & ORM, Jupyter Notebook
+   - Python 3.7, Pandas, Numpy
+   - SQL alchemy toolkit & ORM, Jupyter Notebook
 
 ## Results
 
