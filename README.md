@@ -35,12 +35,21 @@ This analysis queries the database - hawaii.sqlite and  finds the temperature da
     - Data filtered for the station with highest precipitation observations for the month of December.
     - December precipitation data plotted on a histogram.
 
+## Differences between June and December Weather
+
+    - The maximum temperature for June is more than December.
+    - The minimum temperature for June is slightly more than December.
+    - The average temperatures for June are slightly more than December.
+    - The precipitation is higher in the month of December as compared with June.
+
 ## Summary:
 
-For the month of June the minimum temperature was 53 deg, the maximum temperature was 87 deg and mean temperature was 73.1 deg. This is based on temperature data of 19550 days.
+For the month of June the minimum temperature was 64 deg, the maximum temperature was 85 deg and mean temperature was 75 deg. This is based on temperature data of 1700 days.
 
-For the month of December the minium temperature was 56 deg, the maximum temperature was 83 deg and mean temperature was 71 deg. This is based on temperature data of 1517 days.
+For the month of December the minimum temperature was 56 deg, the maximum temperature was 83 deg and mean temperature was 71 deg. This is based on temperature data of 1517 days.
 
-Additionally, for the month of June the max precipitaton was 9.64, the minimum was 0 and average was 0.21. This is based on 2772 counts of data of the most active station.
+Additionally, for the month of June the max precipitaton was 1.39, the minimum was 0 and average was 0.15. This is based on 2772 counts of data of the most active station.
 
-Also, for the month of December the  max precipitaton was 9.64, the minimum was 0 and average was 0.21. This is based on 2772 counts of data of the most active station.
+Also, for the month of December the  max precipitaton was 3.14, the minimum was 0 and average was 0.24. This is based on 2772 counts of data of the most active station.
+
+Similar analysis for other months can be done to determine overall weather trend.
